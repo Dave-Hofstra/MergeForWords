@@ -181,5 +181,5 @@ const server = http.createServer(async (req, res) => {
 try { snapshot(); } catch (e) { /* ignore */ }
 
 server.listen(PORT, '0.0.0.0', () => {
-    console.log(`MergingGame sync server running on port ${PORT}`);
+    console.log(`MergeForWords sync server running on port ${PORT}`);
 });
