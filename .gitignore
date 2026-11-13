@@ -3,3 +3,4 @@ data/snapshots/
 data/players.backup.json
 data/players.corrupt-*.json
 data/*.tmp
+data/players.json
